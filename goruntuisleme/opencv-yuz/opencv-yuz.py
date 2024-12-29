@@ -15,7 +15,7 @@ while cap.isOpened():
         cv2.rectangle(frame,(x,y),(x+w,y+h),(255,0,255),1)
     
     cv2.imshow("Frame",frame)
-    if cv2.waitKey(5)& 0xFF==27:break
+    if cv2.waitKey(5)& 0xFF==27:break  #Press to 'ESC' for exit 
 cap.release()
 cv2.destroyAllWindows()
     
