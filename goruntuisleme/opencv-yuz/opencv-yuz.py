@@ -14,7 +14,7 @@ while cap.isOpened():
     for (x,y,w,h)in yuz:
         cv2.rectangle(frame,(x,y),(x+w,y+h),(255,0,255),1)
     
-    cv2.imshow("Frame",frame)
+    cv2.imshow("Yuz Tanima",frame)
     if cv2.waitKey(5)& 0xFF==27:break  #Press to 'ESC' for exit 
 cap.release()
 cv2.destroyAllWindows()
