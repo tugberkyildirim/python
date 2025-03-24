@@ -77,7 +77,3 @@ The generated QR codes and barcodes are saved in the following folders:
 2. **Generate Barcode**:
    - Users enter barcode data and select the barcode type.
    - The selected barcode will be generated and saved in the specified folder.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
