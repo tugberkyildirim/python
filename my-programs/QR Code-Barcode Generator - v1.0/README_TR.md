@@ -77,8 +77,3 @@ Oluşturduğunuz QR kodları ve barkodlar sırasıyla aşağıdaki klasörlere k
 2. **Barkod Oluşturma**:
    - Kullanıcılar barkod verisini girer ve türü seçer.
    - Seçilen barkod türüne göre barkod oluşturulur ve belirtilen klasöre kaydedilir.
-
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
