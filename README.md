@@ -1,7 +1,7 @@
 # 🐍 Python Collection | @tugberkyildirim
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License]([https://img.shields.io/badge/license-MIT-green.svg](https://github.com/tugberkyildirim/python/blob/main/LICENSE))
 ![Last Commit](https://img.shields.io/github/last-commit/tugberkyildirim/python)
 ![Repo Size](https://img.shields.io/github/repo-size/tugberkyildirim/python)
 
