@@ -48,4 +48,9 @@ python main.py
 Key Management: Go to the RSA tab, select your bit size, click Generate Keys, and then Save to Disk. Your keys will be securely stored as `private.pem` and `public.pem` in the `Data/RSA/` folder.
 
 **🛡️ Security Note**
-This tool is designed for educational and personal use. Important: When sharing this project on GitHub, ensure your `Data/` folder is listed in your `.gitignore` file to prevent leaking your private RSA keys.
+This project is intended for educational and personal use only.
+
+Important: Never commit sensitive data such as private RSA keys to version control.
+Ensure that the `Data/` directory (or any directory containing cryptographic keys) is included in your `.gitignore` file to prevent accidental leakage of private keys.
+
+For better security, always generate RSA keys with a minimum length of 2048 bits and protect private keys with a passphrase.
