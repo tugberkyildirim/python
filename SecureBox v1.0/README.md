@@ -9,13 +9,13 @@ SecureBox is a modern, lightweight, and professional cryptography toolkit built 
 * **Advanced Password Generator:** Create secure passwords with customizable length (8-64 chars).
     * Toggle Uppercase, Lowercase, Numbers, and Special Symbols.
     * Integrated "Copy to Clipboard" action inside the input field.
-* **Base64 Encoder/Decoder:** * Fast conversion between Plain Text and Base64.
+* **Base64 Encoder/Decoder:** Fast conversion between Plain Text and Base64.
     * Optimized vertical layout for clean text processing.
 * **RSA Crypto Toolkit:**
     * Generate **1024, 2048, or 4096-bit** RSA key pairs.
     * **Disk Persistence:** Save keys to `Data/RSA/` and load them back later.
     * Secure Encryption and Decryption using the **PKCS1_OAEP** protocol.
-* **Professional UI:** Clean interface with customized `QComboBox`, `QSlider`, and modern font-weight balance.
+* **Professional UI:** Clean interface and modern font-weight balance.
 
 ---
 
