@@ -41,13 +41,6 @@ SecureBox/
 └── Data/
     └── RSA/            # Directory for stored .pem keys
 ```
-    
-**📖 Installation & Usage**
-Clone the Repo:
-```
-git clone https://github.com/yourusername/SecureBox.git
-cd SecureBox
-```
 Run Application:
 ```
 python main.py
