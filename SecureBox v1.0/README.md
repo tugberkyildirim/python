@@ -32,7 +32,7 @@ Install dependencies with a single command:
 pip install PyQt5 pycryptodome
 ```
 **📂 Project Structure**
-Plaintext
+
 ```
 SecureBox/
 ├── main.py             # Main GUI application
@@ -45,7 +45,7 @@ Run Application:
 ```
 python main.py
 ```
-Key Management: Go to the RSA tab, select your bit size, click Generate Keys, and then Save to Disk. Your keys will be securely stored as `private.pem` and `public.pem` in the Data/RSA/ folder.
+Key Management: Go to the RSA tab, select your bit size, click Generate Keys, and then Save to Disk. Your keys will be securely stored as `private.pem` and `public.pem` in the `Data/RSA/` folder.
 
 **🛡️ Security Note**
 This tool is designed for educational and personal use. Important: When sharing this project on GitHub, ensure your `Data/` folder is listed in your `.gitignore` file to prevent leaking your private RSA keys.
