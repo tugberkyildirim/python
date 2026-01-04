@@ -6,7 +6,7 @@ SecureBox is a modern, lightweight, and professional cryptography toolkit built 
 
 ## 🚀 Key Features
 
-* **Advanced Password Generator:** * Create secure passwords with customizable length (8-64 chars).
+* **Advanced Password Generator:** Create secure passwords with customizable length (8-64 chars).
     * Toggle Uppercase, Lowercase, Numbers, and Special Symbols.
     * Integrated "Copy to Clipboard" action inside the input field.
 * **Base64 Encoder/Decoder:** * Fast conversion between Plain Text and Base64.
@@ -45,7 +45,7 @@ SecureBox/
 **📖 Installation & Usage**
 Clone the Repo:
 ```
-git clone [https://github.com/yourusername/SecureBox.git](https://github.com/yourusername/SecureBox.git)
+git clone https://github.com/yourusername/SecureBox.git
 cd SecureBox
 ```
 Run Application:
