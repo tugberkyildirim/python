@@ -1,5 +1,6 @@
 # OpenCV LBPH Face Recognition System
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 This project provides a real-time face recognition system using the OpenCV library and the LBPH (Local Binary Patterns Histograms) algorithm. The system consists of three main stages: data collection, model training, and real-time recognition.
 
 ### 🚀 Features
@@ -47,5 +48,6 @@ dataset/: (Auto-generated) Folder where training photos are stored.
 
 ### ⚠️ Important Notes
 Collecting data in a well-lit environment significantly improves recognition accuracy.
+
 
 You must run `trainer.py` at least once before starting `main.py.`
